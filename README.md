@@ -1,5 +1,8 @@
 # CPU-scheduling-simulator
 
+1. Check 'Project Description.pdf' for more complex explanation. 
+2. Check 'Report.pdf' for results evaluation.
+
 The process scheduling (also called as CPU scheduler ) is the activity of the process manager that
 handles the removal of the running process from the CPU and the selection of another process on
 the basis of a particular strategy. A scheduling allows one process to use the CPU while another is
